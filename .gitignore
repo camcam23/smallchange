@@ -1,6 +1,6 @@
 src/*.exe
-src/smallchange
-src/test_smallchange
+src/uiopcoin
+src/test_uiopcoin
 src/build.h
 .*.swp
 *.*~*
@@ -13,7 +13,7 @@ src/build.h
 #compilation and Qt preprocessor part
 *.qm
 Makefile
-smallchange-qt
+uiopcoin-qt
 #resources cpp
 qrc_*.cpp
 #qt creator
